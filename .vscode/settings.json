@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "debugPrint",
+        "onExit",
+        "onEnter",
+        "getZoneCategory",
+        "inside",
+        "getNearestGarageId"
+    ]
+}
